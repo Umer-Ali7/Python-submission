@@ -1,0 +1,5 @@
+streamlit
+gspread
+time
+oauth2client.service_account
+datetime
