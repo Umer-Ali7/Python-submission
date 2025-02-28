@@ -30,7 +30,7 @@ def is_duplicate_submission(sheet, roll_number, challenge_day):
 
 # ✅ Streamlit App
 def main():
-    st.title("📅 Daily Python Challenge Submission Form")
+    st.title("📅 Daily Python Challenge Submission Form\nBe Careful Ap ek din me Sirf ek hi Submission kiya kary take ap ka LeaderBord Ban Paye Thanks ✔")
 
     # ✅ Initialize session state to track submission status
     if "submission_done" not in st.session_state:
